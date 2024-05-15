@@ -1,3 +1,3 @@
-module periph.io/x/d2xx
+module github.com/Chetan-Goyal/d2xx
 
 go 1.20
